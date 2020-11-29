@@ -22,4 +22,28 @@ The repository contains 3 main folders:
 
 The main datasets used for the project are taken from: https://www.kaggle.com/drgilermo/nba-players-stats
 
+Contents of datasets:
+1. Players.csv - used for visualization of player heights in /preprocessing/Visualization1.ipynb
+2. Seasons_Stats.csv - used for data cleaning and preprocessing in /preprocessing/Season_stats_Preprocessing.ipynb (which creates the normalized_dataset.csv and modified_season_stats.csv
+
+Contents of preprocessing:
+1. Players_preprocessing.ipynb - used for cleaning the Players.csv
+2. Season_stats_preprocessing.ipynb - used for cleaning the Seasons_Stats.csv which is later used for creating two linear regression models.
+3. Visualization1.ipynb - used for visualizing the distribution of heights and weights of players and also plotting the colleges which produced the maximum players.
+4. Visualization2.ipynb - used for visualizing the state-wise heights of players across the country.
+5. Visualization3.ipynb - used for plotting various technical aspects of player's skills.
+
+Contents of models:
+1. Player_Efficiency_Rating_model.ipynb - used to predict the Player efficiency rating (PER) of a player for the 2017 season using Linear Regression.
+2. Turnover_model.ipynb - used to predict the Turnover Value of a team for the 2017 season using Linear Regression.
+
+
+
+
+
+
+
+
+
+
 
