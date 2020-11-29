@@ -3,6 +3,7 @@
 
 # To run the code:
 $ cd /required_directory
+
 $ git clone https://github.com/Sujith1910/DA_SSSD-Basketball-Players-Stats.git
 
 Requirements:
@@ -14,7 +15,10 @@ Pandas | 1.0.3
 Seaborn | 0.10.0
 Matplotlib | 3.2.1
 
-The repository contains 3 main folders: datasets, models, preprocessing
+The repository contains 3 main folders: 
+1. datasets
+2. models
+3. preprocessing
 
 The main datasets used for the project are taken from: https://www.kaggle.com/drgilermo/nba-players-stats
 
